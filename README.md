@@ -3,6 +3,9 @@
 Team Members
 
 Jasmine Otto
+
 Sam Twaiti
+
 James Barber
+
 Lee Bryson

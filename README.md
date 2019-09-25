@@ -4,7 +4,7 @@ Team Members
 
 Jasmine Otto
 
-Sam Twaiti
+Sam Twaiti - twaitis15@students.ecu.edu
 
 James Barber
 
